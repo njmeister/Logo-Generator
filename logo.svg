@@ -1,7 +1,1 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"> 
- 
-    <circle cx="150" cy="100" r="80" fill="red" /> 
- 
-    <text x="150" y="120" font-size="60" text-anchor="middle" fill="white">NJM</text> 
-
-</svg>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"><rect x="85" y="35" width="130" height="130" fill="white" /><text x="150" y="120" font-size="60" text-anchor="middle" fill="green">abc</text></svg>
