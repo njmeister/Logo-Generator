@@ -68,7 +68,7 @@ inquirer
       type: 'list',
       message: 'Choose a shape',
       name: 'shape',
-      choices: ['circle', 'triangle', 'square'],
+      choices: ['Circle', 'Triangle', 'Square'],
     },
     {
       type: 'input',
@@ -90,13 +90,13 @@ inquirer
     let shape;
     let chooseShape = (data) => {
         switch (data.shape) {
-            case 'circle':
+            case 'Circle':
                 shape = new shapes.Circle(data.text, data.textColor, data.shapeColor, data.shape);
                 break;
-            case 'square':
+            case 'Square':
                 shape = new shapes.Square(data.text, data.textColor, data.shapeColor, data.shape);
                 break;
-            case 'triangle':
+            case 'Triangle':
                 shape = new shapes.Triangle(data.text, data.textColor, data.shapeColor, data.shape);
                 break;
         }
