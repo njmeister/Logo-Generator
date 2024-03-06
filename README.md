@@ -4,7 +4,7 @@
 
 This is my submission for the SVG Logo Maker challenge in the UTA/EdX Coding Bootcamp. The goal of this challenge was to create a program that can be run on Node.js and be fully tested using Jest.
 
-<a href="https://drive.google.com/file/d/1OWySGQUpBuZ-AsWRZFPc6YjkITsrlQa6/view?usp=sharing">Link</a>
+<a href="https://drive.google.com/file/d/1OWySGQUpBuZ-AsWRZFPc6YjkITsrlQa6/view?usp=sharing">Link to video demonstration</a>
 
 
 
